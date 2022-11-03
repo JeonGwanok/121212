@@ -1,0 +1,9 @@
+id/nizwar/screen_capture_event/ScreenCaptureEventPlugin.java
+ id.nizwar.screen_capture_event.ScreenCaptureEventPlugin
+ id.nizwar.screen_capture_event.ScreenCaptureEventPlugin$1
+ id.nizwar.screen_capture_event.ScreenCaptureEventPlugin$2
+ id.nizwar.screen_capture_event.ScreenCaptureEventPlugin$3
+ id.nizwar.screen_capture_event.ScreenCaptureEventPlugin$3$1
+ id.nizwar.screen_capture_event.ScreenCaptureEventPlugin$Path
+id/nizwar/screen_capture_event/BuildConfig.java
+ id.nizwar.screen_capture_event.BuildConfig

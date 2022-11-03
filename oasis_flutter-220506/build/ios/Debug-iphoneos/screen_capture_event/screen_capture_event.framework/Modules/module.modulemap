@@ -1,0 +1,11 @@
+framework module screen_capture_event {
+  umbrella header "screen_capture_event-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module screen_capture_event.Swift {
+    header "screen_capture_event-Swift.h"
+    requires objc
+}

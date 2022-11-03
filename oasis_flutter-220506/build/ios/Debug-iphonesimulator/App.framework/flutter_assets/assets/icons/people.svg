@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 32 / PeopleX</title>
+    <g id="Icon-/-32-/-PeopleX" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#2E7E92" cx="14" cy="10" r="4.5"></circle>
+        <circle id="Oval" stroke="#2E7E92" cx="22" cy="23" r="4.5"></circle>
+        <path d="M18,14.5 C18.9664983,14.5 19.8414983,14.8917508 20.4748737,15.5251263 C21.1082492,16.1585017 21.5,17.0335017 21.5,18 L21.5,18 L21.5,18.5274644 C20.4570958,18.6427516 19.5216055,19.1144334 18.8180195,19.8180195 C18.0036797,20.6323593 17.5,21.7573593 17.5,23 C17.5,23.1692557 17.5093616,23.3363257 17.5275841,23.5007238 L17.5275841,23.5007238 L6.5,23.5000314 L6.5,18 C6.5,17.0335017 6.89175084,16.1585017 7.52512627,15.5251263 C8.15850169,14.8917508 9.03350169,14.5 10,14.5 L10,14.5 Z" id="Combined-Shape" stroke="#2E7E92"></path>
+        <g id="Group" transform="translate(20.000000, 21.000000)" stroke="#2E7E92" stroke-linecap="round">
+            <line x1="0" y1="0" x2="4" y2="4" id="Path-9"></line>
+            <line x1="0" y1="0" x2="4" y2="4" id="Path-9" transform="translate(2.000000, 2.000000) scale(1, -1) translate(-2.000000, -2.000000) "></line>
+        </g>
+    </g>
+</svg>

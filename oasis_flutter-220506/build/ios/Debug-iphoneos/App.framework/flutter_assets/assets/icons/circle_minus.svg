@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 20 / -</title>
+    <g id="Icon-/-20-/--" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#98A2B3" fill="#FFFFFF" cx="10" cy="10" r="9"></circle>
+        <rect id="Rectangle" fill="#98A2B3" transform="translate(10.000000, 10.000000) rotate(90.000000) translate(-10.000000, -10.000000) " x="9.5" y="5" width="1" height="10" rx="0.5"></rect>
+    </g>
+</svg>

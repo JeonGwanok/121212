@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 20 / Plus</title>
+    <g id="Icon-/-20-/-Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2E7E92" x="9.5" y="2" width="1" height="16" rx="0.5"></rect>
+        <rect id="Rectangle" fill="#2E7E92" transform="translate(10.000000, 10.000000) rotate(90.000000) translate(-10.000000, -10.000000) " x="9.5" y="2" width="1" height="16" rx="0.5"></rect>
+    </g>
+</svg>

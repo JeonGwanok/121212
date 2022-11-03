@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/4501684f105f116204225bd71498665d/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

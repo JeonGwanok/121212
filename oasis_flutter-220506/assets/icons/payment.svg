@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 32 / Payment</title>
+    <g id="Icon-/-32-/-Payment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#2E7E92" x="5.5" y="11.5" width="21" height="13" rx="2"></rect>
+        <rect id="Rectangle" stroke="#2E7E92" x="7.5" y="13.5" width="5" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#2E7E92" x="7.5" y="21.5" width="9" height="1" rx="0.5"></rect>
+        <path d="M18.5705081,6.4330127 C18.9107872,6.23655246 19.2960504,6.18853644 19.6512728,6.26896378 C20.003694,6.34875689 20.3267076,6.55475834 20.5466567,6.86779625 L20.5466567,6.86779625 L23.2269881,11.4997169 L9.79497776,11.4997169 Z" id="Combined-Shape" stroke="#2E7E92"></path>
+        <circle id="Oval" stroke="#2E7E92" cx="19.5" cy="21.5" r="1"></circle>
+        <circle id="Oval-Copy" stroke="#2E7E92" cx="23.5" cy="21.5" r="1"></circle>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 40 / Female / Gray</title>
+    <g id="Icon-/-40-/-Female-/-Gray" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(10.000000, 4.000000)" stroke="#D0D5DD" stroke-width="4">
+            <circle id="Oval-Copy" cx="10" cy="10" r="8"></circle>
+            <line x1="10.5" y1="18" x2="10.5" y2="29" id="Path-4"></line>
+            <line x1="10.5" y1="18" x2="10.5" y2="29" id="Path-4" transform="translate(10.500000, 23.500000) rotate(-90.000000) translate(-10.500000, -23.500000) "></line>
+        </g>
+    </g>
+</svg>

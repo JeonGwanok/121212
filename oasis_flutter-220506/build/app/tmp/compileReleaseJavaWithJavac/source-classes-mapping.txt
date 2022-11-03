@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/nisoft/oasis/BuildConfig.java
+ com.nisoft.oasis.BuildConfig

@@ -1,0 +1,2 @@
+kr/iamport/iamport_flutter/BuildConfig.java
+ kr.iamport.iamport_flutter.BuildConfig

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 44 / Card / Arrow</title>
+    <g id="Icon-/-44-/-Card-/-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bell">
+            <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+            <polyline id="Rectangle" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" transform="translate(23.005703, 26.005703) rotate(45.000000) translate(-23.005703, -26.005703) " points="26.88035 22.1310559 26.88035 29.88035 19.1310559 29.88035"></polyline>
+            <polyline id="Rectangle-Copy-4" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" transform="translate(23.005703, 16.964860) rotate(45.000000) translate(-23.005703, -16.964860) " points="26.88035 13.0902127 26.88035 20.8395069 19.1310559 20.8395069"></polyline>
+        </g>
+    </g>
+</svg>

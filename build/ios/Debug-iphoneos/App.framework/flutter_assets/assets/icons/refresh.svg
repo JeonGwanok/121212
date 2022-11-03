@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 32 / Rotate</title>
+    <g id="Icon-/-32-/-Rotate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="rotate-cw" transform="translate(6.000000, 7.000000)" stroke="#2E7E92">
+            <polyline id="Shape" points="19.9966723 0.998275068 19.9966723 6.99827507 13.9966723 6.99827507"></polyline>
+            <path d="M17.4866723,11.9982751 C16.1512941,15.7780595 12.4769874,18.2189806 8.47508847,17.9848643 C4.47318952,17.750748 1.10856702,14.8980405 0.223034264,10.9883298 C-0.662498491,7.07861918 1.14456286,3.05454733 4.65502277,1.11891387 C8.16548268,-0.816719592 12.5329597,-0.19722816 15.3666723,2.63827507 L19.9966723,6.99827507" id="Shape"></path>
+        </g>
+    </g>
+</svg>

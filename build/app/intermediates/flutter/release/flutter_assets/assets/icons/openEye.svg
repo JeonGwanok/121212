@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 20 / Eye</title>
+    <g id="Icon-/-20-/-Eye" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="eye" transform="translate(1.000000, 3.000000)" stroke="#98A2B3">
+            <path d="M0,7 C0,7 3.27272727,0 9,0 C14.7272727,0 18,7 18,7 C18,7 14.7272727,14 9,14 C3.27272727,14 0,7 0,7 Z" id="Shape"></path>
+            <circle id="Oval" cx="9" cy="7" r="3"></circle>
+        </g>
+    </g>
+</svg>

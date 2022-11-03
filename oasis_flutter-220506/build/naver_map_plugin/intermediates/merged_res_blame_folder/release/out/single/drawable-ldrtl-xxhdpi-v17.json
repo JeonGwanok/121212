@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

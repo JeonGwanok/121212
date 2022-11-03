@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\maru1\\Desktop\\oasis_flutter-220506\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\maru1\\.gradle\\caches\\transforms-2\\files-2.1\\c0bef11647c67f69a06011ce2f60d5ed\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\maru1\\Desktop\\oasis_flutter-220506\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\maru1\\.gradle\\caches\\transforms-2\\files-2.1\\c0bef11647c67f69a06011ce2f60d5ed\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\maru1\\Desktop\\oasis_flutter-220506\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\maru1\\.gradle\\caches\\transforms-2\\files-2.1\\c0bef11647c67f69a06011ce2f60d5ed\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maru1\\Desktop\\oasis_flutter-220506\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\maru1\\.gradle\\caches\\transforms-2\\files-2.1\\c0bef11647c67f69a06011ce2f60d5ed\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

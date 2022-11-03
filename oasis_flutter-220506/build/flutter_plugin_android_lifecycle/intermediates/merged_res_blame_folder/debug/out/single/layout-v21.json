@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/park/workspace/oasis/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/489e9375f01d9206390e16266180ae13/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/489e9375f01d9206390e16266180ae13/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/489e9375f01d9206390e16266180ae13/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/489e9375f01d9206390e16266180ae13/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

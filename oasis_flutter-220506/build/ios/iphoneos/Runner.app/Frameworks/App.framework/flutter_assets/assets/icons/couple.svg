@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 32 / Couple</title>
+    <g id="Icon-/-32-/-Couple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-22" transform="translate(6.000000, 2.671204)">
+            <g id="Group-20" transform="translate(0.000000, 9.328796)">
+                <circle id="Oval" stroke="#2E7E92" cx="5" cy="5" r="4.5"></circle>
+                <line x1="5" y1="9" x2="5" y2="14.5138214" id="Path-6" stroke="#2E7E92"></line>
+                <rect id="Rectangle" fill="#2E7E92" x="2.5" y="11" width="5" height="1"></rect>
+            </g>
+            <g id="Group-21" transform="translate(13.000000, 8.863071) scale(-1, -1) rotate(45.000000) translate(-13.000000, -8.863071) translate(8.000000, 1.328796)" stroke="#2E7E92">
+                <g id="Group-20-Copy">
+                    <circle id="Oval" cx="5" cy="5" r="4.5"></circle>
+                    <line x1="5" y1="9" x2="5" y2="14.5138214" id="Path-6"></line>
+                </g>
+                <polyline id="Path-7" points="2.4503358 12.5188873 5 15.0685515 7.5496642 12.5188873"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

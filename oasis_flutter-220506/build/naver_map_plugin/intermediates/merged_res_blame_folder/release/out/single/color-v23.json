@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/park/workspace/oasis/build/naver_map_plugin/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/park/.gradle/caches/transforms-2/files-2.1/ca3e719ecd9b94dea23b5cb4b4173fca/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

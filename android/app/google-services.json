@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1041395106443",
+    "project_id": "oasis-46857",
+    "storage_bucket": "oasis-46857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041395106443:android:ca37d650eb24e2201b0a8e",
+        "android_client_info": {
+          "package_name": "com.nisoft.oasis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041395106443-jv8cl2g3714ql9mt00r9piovrllsra94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbeU4sScsAQsqfzFPtxz1z51DevuuDA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041395106443-jv8cl2g3714ql9mt00r9piovrllsra94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041395106443-22mi4jmmnfegedtn67jddn4uav79gp1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oasis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

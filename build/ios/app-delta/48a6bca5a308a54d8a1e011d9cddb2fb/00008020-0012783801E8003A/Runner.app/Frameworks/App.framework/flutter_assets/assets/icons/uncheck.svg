@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / 20 / Check / Default (Gray)</title>
+    <g id="Icon-/-20-/-Check-/-Default-(Gray)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="check-circle" transform="translate(1.000000, 1.000000)" stroke="#98A2B3">
+            <path d="M18,8.16807174 L18,9.00501645 C17.997721,12.9905704 15.374072,16.499913 11.5518354,17.6299575 C7.72959877,18.760002 3.61929479,17.2415532 1.4499063,13.8980529 C-0.719482193,10.5545526 -0.431170868,6.182478 2.1584915,3.15276801 C4.74815386,0.123058019 9.02226673,-0.842560211 12.6630151,0.779559867" id="Shape"></path>
+            <polyline id="Shape" points="18 1.40807085 9.57142857 10 7 7.54545455"></polyline>
+        </g>
+    </g>
+</svg>

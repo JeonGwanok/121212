@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="88px" viewBox="0 0 80 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Graphic 02</title>
+    <g id="Graphic-02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset-1">
+            <rect id="Rectangle" fill="#3B546A" fill-rule="nonzero" x="73.4" y="39.66" width="1" height="19.22"></rect>
+            <rect id="Rectangle" fill="#FFC33E" fill-rule="nonzero" x="71.9" y="58.88" width="3.62" height="5.84"></rect>
+            <polygon id="Path" fill="#637789" fill-rule="nonzero" points="80 38.74 45.01 53.95 10.02 38.74 45.01 23.53"></polygon>
+            <path d="M65.79,62.25 L23.27,62.25 L23.27,37.8 L23.27,37.8 C37.2465642,34.4600155 51.8134358,34.4600155 65.79,37.8 L65.79,37.8 L65.79,62.25 Z" id="Path" fill="#3B546A" fill-rule="nonzero"></path>
+            <path d="M15.43,63.74 C14.0453162,66.1342103 14.0453162,69.0857897 15.43,71.48 L67.26,71.48 L67.26,74.4 L13.86,74.4 L13.42,73.78 C11.0084985,70.3712834 10.8091558,65.8684819 12.91,62.26 L13.77,60.79 L67.26,60.79 L67.26,63.71 L15.45,63.71 L15.43,63.74 Z" id="Path" fill="#283B49" fill-rule="nonzero"></path>
+            <path d="M65.13,71.48 L15.41,71.48 C14.0253162,69.0857897 14.0253162,66.1342103 15.41,63.74 L15.41,63.74 L65.13,63.74 C63.2434606,65.9751326 63.2434606,69.2448674 65.13,71.48 L65.13,71.48 Z" id="Path" fill="#E5E9E8" fill-rule="nonzero"></path>
+            <path d="M4,77.34 C2.61531617,79.7342103 2.61531617,82.6857897 4,85.08 L55.79,85.08 L55.79,88 L2.4,88 L2,87.39 C-0.413988055,83.9821355 -0.6133964,79.4778529 1.49,75.87 L2.35,74.4 L55.79,74.4 L55.79,77.31 L4,77.31 L4,77.34 Z" id="Path" fill="#283B49" fill-rule="nonzero"></path>
+            <path d="M53.66,85.08 L4,85.08 C2.61531617,82.6857897 2.61531617,79.7342103 4,77.34 L4,77.34 L53.66,77.34 C51.797781,79.5839671 51.797781,82.8360329 53.66,85.08 Z" id="Path" fill="#E5E9E8" fill-rule="nonzero"></path>
+            <rect id="Rectangle" x="0" y="0" width="80" height="88"></rect>
+        </g>
+    </g>
+</svg>
